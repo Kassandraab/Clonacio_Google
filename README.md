@@ -3,10 +3,10 @@
 
 ## *ÍNDICE*
 
-* [1. Inro](https://github.com/Kassandraab/Clonacio_Google/edit/main/README.md#1-intro)
-* [2. Que contrui](https://github.com/Kassandraab/Clonacio_Google/edit/main/README.md#2-que-constru%C3%AD)
-* [3. Objetivo del proyect](https://github.com/Kassandraab/Clonacio_Google/edit/main/README.md#3-objetivo-del-proyecto)
-* [4. Link del Demo](https://github.com/Kassandraab/Clonacio_Google/edit/main/README.md#4-link-a-demo)
+* [1. Inro](https://github.com/Kassandraab/Clonacio_Google/blob/main/README.md#1-intro)
+* [2. Que contrui](https://github.com/Kassandraab/Clonacio_Google/blob/main/README.md#2-que-constru%C3%AD)
+* [3. Objetivo del proyect](https://github.com/Kassandraab/Clonacio_Google/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. Link del Demo](https://github.com/Kassandraab/Clonacio_Google/blob/main/README.md#4-link-a-demo)
 
 ****
 
